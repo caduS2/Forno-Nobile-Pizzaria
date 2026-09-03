@@ -1,0 +1,7 @@
+{
+  "name": "Forno Nobile Pizzaria",
+  "description": "Landing page gastronômica premium para a Forno Nobile Pizzaria em São Paulo, com cardápio digital interativo, pedidos via WhatsApp e localização.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
